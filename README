@@ -1,0 +1,36 @@
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Copyright 2010 Markizano Draconus <markizano@markizano.net> http://markizano.net/
+
+
+Platform: Windows Vista or 7
+Language: VisualBasic.NET
+
+In order to run this application, you must have the .NET framework installed.
+If not, you should be able to visit the FinalProject\publish directory and execute the
+setup.exe file contained within that folder. It will install the basics necessary to run
+this application on your system.
+That will all that is necessary to simply run this application on your system.
+
+In order to edit the source code, it's best to visit the following site and obtain/install
+the IDE used to create this project:
+http://microsoft.com/express/download
+
+In order to validate the tests, you would need to modify the source code, then recompile
+the application to verify the checks are actually throwing errors if the conversions fail.
+The conversions are setup in FinalProject\ConvertTest.vb. Simply modify one of the values
+in the New() subprogram, recompile, rerun, then click on the test button in the GUI. You
+will notice the application throwing errors when expected values differ from the calculated
+values.

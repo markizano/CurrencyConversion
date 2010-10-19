@@ -1,0 +1,15 @@
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.FinalProject.resources
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.Resources.resources
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Release\FinalProject.exe
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Release\FinalProject.pdb
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Release\FinalProject.xml
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.exe
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.xml
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.pdb
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Release\FinalProject.exe.manifest
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Release\FinalProject.application
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.exe.manifest
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Release\FinalProject.application

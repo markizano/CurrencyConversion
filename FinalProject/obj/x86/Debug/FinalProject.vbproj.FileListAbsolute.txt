@@ -1,0 +1,11 @@
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.xml
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.FinalProject.resources
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Resources.resources
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.xml
+C:\Users\markizano\documents\visual studio 2010\Projects\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
